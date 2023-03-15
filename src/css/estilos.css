@@ -1,0 +1,152 @@
+body {
+    background-image: url(../imagens/carolina-tinoco_back4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Signika', sans-serif, monospace;
+    color: #c7acbf;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 30px;
+}
+
+.cartao {
+    background-color: #000;
+    width: 370px;
+    border: 2px solid #a0274b; 
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.cartao .minhas-informacoes {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.cartao .minhas-informacoes img {
+    border-radius: 50px;
+    border: 4px solid #000;
+    width: 140px;
+    height: 140px;
+}
+
+.cartao .minhas-informacoes .nome {
+    font-size: 24px;
+    text-align: center;
+}
+
+.cartao .minhas-informacoes .cargo {
+    font-size: 17px;
+    text-align: center;
+}
+
+.cartao .conteudo {
+    font-size: 19px;
+    margin-top: 15px;
+}
+
+.cartao .abas {
+    display: flex;
+}
+
+.cartao .abas .aba {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.cartao .abas img {
+    width: 24px;
+}
+
+.cartao .abas .aba.selecionada {
+    background-color: #262626;
+}
+
+.cartao .informacoes-abas {
+    background-color: #262626;
+}
+
+.cartao .abas .aba:hover {
+    background-color: #414141;
+}
+
+.informacoes-abas .informacao {
+    min-height: 260px;
+    padding: 15px;
+    display: none;
+}
+
+.informacoes-abas .informacao.selecionada {
+    display: block;
+}
+
+.informacoes-abas .subtitulo {
+    font-size: 17px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.informacoes-abas .descricao {
+    font-size: 17px;
+    max-height: 180px;
+    overflow-y: auto;
+    padding-right: 15px;
+}
+
+.informacoes-abas .descricao span {
+    color: #e01e58;
+}
+
+.redes-sociais {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: center;
+    max-height: 180px;
+    overflow-y: auto;
+}
+
+.redes-sociais li a {
+    width: 250px;
+    display: block;
+    color: #f3f3f3;
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.redes-sociais li a:hover {
+    opacity: 0.8;
+}
+
+.redes-sociais .curriculo {
+    font-size: 17px;
+    background-color: #a75e8b;
+}
+
+.redes-sociais .linkedin {
+    font-size: 17px;
+    background-color: #b33163;
+}
+
+.redes-sociais .github {
+    font-size: 17px;
+    background-color: #c01a28;
+}
+
+p {
+    text-align: justify;
+    font-size: 17px;
+}
+

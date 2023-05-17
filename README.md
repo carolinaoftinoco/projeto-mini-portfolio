@@ -2,16 +2,16 @@
 
 <p>Um pequeno projeto que se autodenomina.</p>
 
-**Tecnologias Utilizadas**
+**TECNOLOGIAS UTILIZADAS**
 
 - HTML
 - CSS
 
-**Linguagem Utilizada**
+**LINGUAGEM UTILIZADA**
 
 - JavaScript
 
-**Status**
+**STATUS**
 
 <p>Em construção.</p>
 

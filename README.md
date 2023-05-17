@@ -16,3 +16,5 @@
 <p>Em construção.</p>
 
 <p>Obrigada! (:</p>
+
+https://carolinaoftinoco.github.io/projeto-mini-portfolio/

@@ -1,4 +1,4 @@
-**PROJETO "MINI PORTFÓLIO"**
+**PROJETO "MINI PORTFÓLIO"** (SET/22)
 
 <p>Um pequeno projeto que se autodenomina.</p>
 

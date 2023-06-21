@@ -18,7 +18,6 @@
 
 
 ![mini_portfolio](https://github.com/carolinaoftinoco/projeto-mini-portfolio/assets/110881696/849d65e2-b535-4456-afb1-2cc5b7f95725)
-<br>
 
 
-Clique [aqui](https://carolinaoftinoco.github.io/projeto-mini-portfolio/) para conferir. (:
+<p>Clique [aqui](https://carolinaoftinoco.github.io/projeto-mini-portfolio/) para conferir. (:</p>

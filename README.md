@@ -13,7 +13,7 @@
 
 **OBSERVAÇÕES**
 
-<p>Encontra-se em franca reconstrução.</p>
+<p>Em reforma.</p>
 <br>
 
 ![mini_portfolio](https://github.com/carolinaoftinoco/projeto-mini-portfolio/assets/110881696/849d65e2-b535-4456-afb1-2cc5b7f95725)

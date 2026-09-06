@@ -135,18 +135,17 @@ body {
     background-color: #a75e8b;
 }
 
-.redes-sociais .linkedin {
-    font-size: 17px;
-    background-color: #c01a28;
-}
-
 .redes-sociais .github {
     font-size: 17px;
     background-color: #b33163;
+}
+
+.redes-sociais .linkedin {
+    font-size: 17px;
+    background-color: #c01a28;
 }
 
 p {
     text-align: justify;
     font-size: 17px;
 }
-

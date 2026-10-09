@@ -13,7 +13,7 @@
 
 **OBSERVAÇÕES**
 
-<p>Em reforma.</p>
+<p>Sob constantes alterações.</p>
 
 <p>Obrigada!</p>
 <br>
